@@ -13,7 +13,7 @@ permalink: /publications/
 
 * <strong>Yongjun He</strong>, Jiacheng Lu, Tianzheng Wang  
   [CoroBase: Coroutine-Oriented Main-Memory Database Engine](http://vldb.org/pvldb/vol14/p431-he.pdf)  
-  VLDB 2021, Copenhagen, Denmark. [[code]](https://github.com/sfu-dis/corobase)
+  VLDB 2021, Copenhagen, Denmark. [[code]](https://github.com/sfu-dis/corobase) [[talk at VLDB 2021]](https://www.bilibili.com/video/BV1UM4y1577P?spm_id_from=333.999.0.0)
 
 * Alex Depoutovitch, Chong Chen, Jin Chen, Paul Larson, Shu Lin, Jack Ng, Wenlin Cui, Qiang Liu, Wei Huang, Yong Xiao, <strong>Yongjun He</strong>  
   [Taurus Database: How to be Fast, Available, and Frugal in the Cloud](https://dl.acm.org/doi/abs/10.1145/3318464.3386129)  
