@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 ## Experience
-### Simon Fraser University
-<small>Jun 2021 - Sep 2021</small>  
-Visiting Student, Database Systems Lab  
-Supervisor:  Jiannan Wang
-
 ### Huawei Toronto Research Centre
 <small>Jul 2019 - Dec 2019</small>  
 Support Researcher, Distributed Scheduling and Data Engine Lab  

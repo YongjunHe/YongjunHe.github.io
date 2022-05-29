@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 * Xiangru Lian, Binhang Yuan, Xuefeng Zhu, Yulong Wang, <strong>Yongjun He</strong>, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, Ji Liu  
   [Persia: A Hybrid System Scaling Deep Learning Based Recommenders up to 100 Trillion Parameters](https://arxiv.org/abs/2111.05897)  
-  SIGKDD 2022, Washington, D.C., USA. [[code]](https://github.com/PersiaML/Persia)
+  SIGKDD 2022 Applied Data Science Track, Washington, D.C., USA. [[code]](https://github.com/PersiaML/Persia)
   
 * <strong>Yongjun He</strong>  
   [High-Performance In-Memory OLTP via Coroutine-to-Transaction](https://summit.sfu.ca/item/21572)  
