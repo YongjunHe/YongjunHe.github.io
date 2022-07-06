@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 ## Experience
-### Huawei Toronto Research Centre
+<!-- ### Huawei Toronto Research Centre
 <small>Jul 2019 - Dec 2019</small>  
 Support Researcher, Distributed Scheduling and Data Engine Lab  
-Mentor:  Per-Åke Larson
+Mentor:  Per-Åke Larson -->
 
 ### Simon Fraser University
 <small>Jul 2017 - Oct 2017</small>  
