@@ -1,22 +1,32 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Yongjun He
+logo-eth: logo-eth.png # You can add own logo.
+logo-sfu: logo-sfu.svg
+logo-nju: logo-nju.png
+description:
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: Yongjun He
+  image: YongjunHe.jpg
+  say-hello: Hello, I’m <strong>Yongjun He</strong>
+  bio: I am a 2nd year PhD student in Computer Science at ETH Zurich, under the supervision of Prof. Dr. [Ce Zhang](https://systems.ethz.ch/people/profile.ce-zhang.html), Prof. Dr. [Gustavo Alonso](https://systems.ethz.ch/people/profile.gustavo-alonso.html), and Dr. [Theodoros Rekatsinas](https://thodrek.github.io/). 
+       I am a member of the [Systems Group](https://systems.ethz.ch/) and the [DS3Lab](https://ds3lab.inf.ethz.ch/) at ETH Zurich.
+       My research interests are at the intersection of data management, machine learning, and systems.
 
+       I received my M.Sc. in Computer Science from Simon Fraser University in 2021, advised by Prof. [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang/), 
+       Prof. [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/), and Prof. [Ryan Shea](https://www.sfu.ca/fas/news-and-outreach/years/2019/sfu-mourns-the-loss-of-ryan-shea.html). 
+       I received my B.Eng in Software Engineering from Nanjing University in 2018.
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+twitter: https://twitter.com/Yong_jun_He # Add your Twitter handle
+linkedin: https://www.linkedin.com/in/yong-jun-he-762485154/
+google-scholar: https://scholar.google.com/citations?user=JcXoAVkAAAAJ&hl=en 
+mail: yongjun.he@inf.ethz.ch 
 facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/ # Add your Instagram handle
