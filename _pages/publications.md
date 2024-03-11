@@ -3,13 +3,21 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+* Qiang Huang, Xin Wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, <strong>Yongjun He</strong>, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang  
+  [BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks]()  
+  ICDE 2024, Utrecht, Netherlands. [[code]](https://github.com/qianghuangwhu/benchtemp)
+
+* Danrui Qi\*, Jinglin Peng\*, <strong>Yongjun He\*</strong>, Jiannan Wang  
+  [Auto-FP: An Experimental Study of Automated Feature Preprocessing for Tabular Data](https://openproceedings.org/2024/conf/edbt/AutoFP_EDBT_camera_ready.pdf)  
+  EDBT 2024 Experiments & Analysis Track, Paestum, Italy. [[code]](https://github.com/AutoFP)
+
 * Binhang Yuan\*, <strong>Yongjun He\*</strong>, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Ré, Ce Zhang  
-  [Decentralized Training of Foundation Models in Heterogeneous Environments](https://openreview.net/pdf?id=UHoGOaGjEq)  
-  NeurIPS 2022 Oral, San Diego, CA, USA
+  [Decentralized Training of Foundation Models in Heterogeneous Environments](https://proceedings.neurips.cc/paper_files/paper/2022/file/a37d615b61f999a5fa276adb14643476-Paper-Conference.pdf)  
+  NeurIPS 2022 Oral, San Diego, CA, USA. [[product]](https://together.ai/)
 
 * Jue Wang\*, Binhang Yuan\*, Luka Rimanic\*, <strong>Yongjun He</strong>, Tri Dao, Beidi Chen, Christopher Ré, Ce Zhang  
-  [Fine-tuning Language Models over Slow Networks using Activation Quantization with Guarantees](https://openreview.net/forum?id=QDPonrGtl1)  
-  NeurIPS 2022, San Diego, CA, USA
+  [Fine-tuning Language Models over Slow Networks using Activation Quantization with Guarantees](https://proceedings.neurips.cc/paper_files/paper/2022/file/7a43b8eb92cd5f652b78eeee3fb6f910-Paper-Conference.pdf)  
+  NeurIPS 2022, San Diego, CA, USA.
 
 * Xiangru Lian, Binhang Yuan, Xuefeng Zhu, Yulong Wang, <strong>Yongjun He</strong>, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, Ji Liu  
   [Persia: An Open, Hybrid System Scaling Deep Learning Based Recommenders up to 100 Trillion Parameters](https://dl.acm.org/doi/abs/10.1145/3534678.3539070)  
