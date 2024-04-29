@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+* <strong>Yongjun He</strong>, Yao Lu, Gustavo Alonso  
+  [Deferred Continuous Batching in Resource-Efficient Large Language Model Serving](https://dl.acm.org/doi/10.1145/3642970.3655835)  
+  EuroMLSys 2024 Oral, Athens, Greece. [[code]](https://github.com/llm-db/FineInfer)
+
 * Qiang Huang, Xin Wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, <strong>Yongjun He</strong>, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang  
   [BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks]()  
   ICDE 2024, Utrecht, Netherlands. [[code]](https://github.com/qianghuangwhu/benchtemp)
