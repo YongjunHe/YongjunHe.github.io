@@ -10,6 +10,7 @@ permalink: /service/
 * ICML 2024
 * ICLR 2024
 * NGSM@ICML 2024
+* DMLR@ICML 2024
 * DMLR@ICLR 2024
 * NeurIPS 2023, 2024
 
