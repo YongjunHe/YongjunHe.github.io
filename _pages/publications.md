@@ -7,7 +7,7 @@ author_profile: true
 
 First Author Publications
 ======
-* [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments]()  
+* [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://openreview.net/forum?id=LRLyuaz1W7)  
   **Yongjun He\***, Shuai Zhang\*, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis  
   MLSys 2026
 * [Resource Multiplexing in Tuning and Serving Large Language Models](https://www.usenix.org/conference/atc25/presentation/he-yongjun)  

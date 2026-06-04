@@ -16,11 +16,13 @@ Service
 * Reviewer, ICML 2024 - 2026
 * Reviewer, ICLR 2024 - 2026
 * Reviewer, NeurIPS 2023 - 2025
+* Journal Reviewer, IEEE TDSC
 * Program Committee, CIKM 2022, 2023
 * Student Volunteer, VLDB 2020
 
 Awards & Grants
 ======
+* [ML and Systems Rising Stars](https://mlcommons.org/2026/05/2026-rising-stars/), MLCommons 2026
 * Student Travel Grant, ICDE 2025
 
 Talks

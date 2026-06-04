@@ -8,8 +8,8 @@ author_profile: true
 Education
 ======
 * ETH Zurich
-  * Ph.D. in Computer Science, Sep 2021 - Jun 2027
-  * Advisors: Gustavo Alonso and Ana Klimovic
+  * Ph.D. in Computer Science, Sep 2021 - Apr 2027
+  * Advisors: Gustavo Alonso and Ana Klimović
   * Advisors (before 2024): Ce Zhang and Theodoros Rekatsinas
 
 * Simon Fraser University
@@ -22,9 +22,12 @@ Education
 
 Experience
 ======
+* Amazon, Santa Clara, CA, USA
+  * Applied Science Intern, AGI Labs, Jun 2026 - Sep 2026
+  * Mentor: Dr. Shuai Zhuang
+
 * Amazon Web Services AI, Santa Clara, CA, USA
-  * Applied Science Intern, Deep Science for Systems and Services (DS3) team, Jun 2026 - Sep 2026
-  * Applied Science Intern, DS3 team, Jun 2025 - Sep 2025
+  * Applied Science Intern, Deep Science for Systems and Services (DS3) team, Jun 2025 - Sep 2025
   * Mentor: Dr. Shuai Zhuang
 
 * Microsoft Research, Redmond, WA, USA
