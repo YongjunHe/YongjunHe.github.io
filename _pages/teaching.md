@@ -8,19 +8,15 @@ author_profile: true
 ETH Zurich
 ======
 * Courses, Teaching Assistant
-  * Spring 2026: Data Modeling and Databases
-  * Autumn 2025: Advanced Machine Learning
-  * Spring 2025: Stochastics and Machine Learning
-  * Autumn 2024: Advanced Machine Learning
-  * Spring 2024: Stochastics and Machine Learning
-  * Autumn 2023: Advanced Machine Learning
-  * Spring 2023: Data Modeling and Databases
+  * Autumn 2023, 2024, 2025, 2026: Advanced Machine Learning
+  * Spring 2023, 2026: Data Modeling and Databases
+  * Spring 2024, 2025: Stochastics and Machine Learning
   * Autumn 2022: Seminar on Machine Learning Systems
 
 * Master's Theses and Semester Projects, Co-Supervisor
   * TBD  
     Andrin Gasser, Master’s Thesis, May 2026 - Nov 2026
-  * TBD  
+  * Compiler-Assisted Computing Kernel Optimizations for GPU-Accelerated Query Processing  
     Florian Jacques, Semester Project, Feb 2026 - Jun 2026
   * Evaluating LLM-Based Coding Agents for Optimizing CUDA Kernels for Vector Search  
     Pham Minh, Semester Project, Sep 2025 - Mar 2026
