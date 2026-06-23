@@ -23,7 +23,7 @@ Education
 Experience
 ======
 * Amazon, Santa Clara, CA, USA
-  * Applied Science Intern, AGI Foundations team, Jun 2026 - Sep 2026
+  * Applied Science Intern, AGI Foundations for AWS team, Jun 2026 - Sep 2026
   * Mentor: Dr. Shuai Zhuang
 
 * Amazon Web Services AI, Santa Clara, CA, USA
