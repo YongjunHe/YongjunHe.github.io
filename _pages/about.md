@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD student in the [Systems Group](https://systems.ethz.ch/) of the Department of Computer Science at ETH Zurich, under the supervision of Prof. Dr. [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and Prof. Dr. [Ana Klimović](https://anakli.inf.ethz.ch/). Before 2024, I was supervised by Prof. [Ce Zhang](https://zhangce.github.io/) and Dr. [Theodoros Rekatsinas](https://thodrek.github.io/). My research interests are at the intersection of data management, machine learning, and systems.
+I am a 5th year PhD student in the [Systems Group](https://systems.ethz.ch/) of the Department of Computer Science at ETH Zurich, under the supervision of Prof. Dr. [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and Prof. Dr. [Ana Klimović](https://anakli.inf.ethz.ch/). Before 2024, I was supervised by Prof. [Ce Zhang](https://zhangce.github.io/) and Prof. Dr. [Theodoros Rekatsinas](https://thodrek.github.io/). My research interests are at the intersection of data management, machine learning, and systems.
 
 I received my M.Sc. in Computer Science from Simon Fraser University in 2021, advised by Prof. [Tianzheng Wang](https://www.cs.sfu.ca/~tzwang/), Prof. [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/), and Prof. [Ryan Shea](https://scholar.google.ca/citations?user=rOPt1L4AAAAJ&hl=en) (In Memoriam). I received my B.Eng in Software Engineering from Nanjing University in 2018.
 
