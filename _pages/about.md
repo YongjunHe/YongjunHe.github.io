@@ -14,7 +14,7 @@ I received my M.Sc. in Computer Science from Simon Fraser University in 2021, ad
 Service
 ======
 * Program Committee, MLSys 2027
-* Reviewer, ICLR 2024 - 2027
+* Reviewer, ICLR 2024 - 2026
 * Reviewer, ICML 2024 - 2026
 * Reviewer, NeurIPS 2023 - 2026
 * Journal Reviewer, IEEE TDSC
