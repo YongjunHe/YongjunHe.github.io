@@ -26,7 +26,7 @@ Experience
   * Applied Science Intern, AGI Foundations for AWS team, Jun 2026 - Sep 2026
 
 * Amazon Web Services AI, Santa Clara, CA, USA
-  * Applied Science Intern, Deep Science for Systems and Services (DS3) team, Jun 2025 - Sep 2025
+  * Applied Science Intern, Deep Engine-Science team, Jun 2025 - Sep 2025
 
 * Microsoft Research, Redmond, WA, USA
   * Research Intern, Data Systems Group, Jun 2023 - Sep 2023
