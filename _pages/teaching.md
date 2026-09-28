@@ -14,7 +14,13 @@ ETH Zurich
   * Autumn 2022: Seminar on Machine Learning Systems
 
 * Master's Theses and Semester Projects, Co-Supervisor
-  * Compiler-assisted Computing Kernel Optimizations for GPU-accelerated Query Processing  
+  * Ongoing  
+    Ajeong Shin, Master’s Thesis, Oct 2026 - Mar 2027
+  * Ongoing  
+    David Oancea, Master’s Thesis, Oct 2026 - Mar 2027
+  * Ongoing  
+    Etienne Asselin, Semester Project, Oct 2026 - Jan 2027
+  * Ongoing  
     Andrin Gasser, Master’s Thesis, May 2026 - Nov 2026
   * Compiler-Assisted Computing Kernel Optimizations for GPU-Accelerated Query Processing  
     Florian Jacques, Semester Project, Feb 2026 - Jun 2026
