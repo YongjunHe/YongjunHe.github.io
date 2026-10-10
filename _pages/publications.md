@@ -27,6 +27,9 @@ First Author Publications
 
 Co-Authored Publications
 ======
+* [Accelerating Recommender Model ETL with a Streaming FPGA–GPU Dataflow](https://arxiv.org/abs/2501.12032)  
+  Yu Zhu, Wenqi Jiang, Piyumi Jasin Pathiranage, **Yongjun He**, Gustavo Alonso  
+  TRETS 2026
 * [Benchtemp: A General Benchmark for Evaluating Temporal Graph Neural Networks](https://ieeexplore.ieee.org/document/10597888)  
   Qiang Huang, Xin Wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, **Yongjun He**, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang  
   ICDE 2024
