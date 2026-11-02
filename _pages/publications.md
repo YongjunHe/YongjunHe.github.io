@@ -7,6 +7,9 @@ author_profile: true
 
 First Author Publications
 ======
+* [Chameleon<sup>+</sup>: A Heterogeneous and Disaggregated Accelerator System for Efficient RAG Serving](https://www.research-collection.ethz.ch/entities/publication/18202237-cd64-4f36-9008-dbf61cf0c0f7)  
+  **Yongjun He\***, Wenqi Jiang\*, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso  
+  In submission to The VLDB Journal
 * [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://www.amazon.science/publications/hetrl-efficient-reinforcement-learning-for-llms-in-heterogeneous-environments)  
   **Yongjun He\***, Shuai Zhang\*, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis  
   MLSys 2026
