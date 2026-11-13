@@ -7,7 +7,10 @@ author_profile: true
 
 First Author Publications
 ======
-* [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://openreview.net/forum?id=LRLyuaz1W7)  
+* [Chameleon<sup>+</sup>: A Heterogeneous and Disaggregated Accelerator System for Efficient RAG Serving](https://www.research-collection.ethz.ch/entities/publication/18202237-cd64-4f36-9008-dbf61cf0c0f7)  
+  **Yongjun He\***, Wenqi Jiang\*, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso  
+  Submitted to The VLDB Journal
+* [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://www.amazon.science/publications/hetrl-efficient-reinforcement-learning-for-llms-in-heterogeneous-environments)  
   **Yongjun He\***, Shuai Zhang\*, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis  
   MLSys 2026
 * [Resource Multiplexing in Tuning and Serving Large Language Models](https://www.usenix.org/conference/atc25/presentation/he-yongjun)  
@@ -27,6 +30,9 @@ First Author Publications
 
 Co-Authored Publications
 ======
+* [Accelerating Recommender Model ETL with a Streaming FPGA–GPU Dataflow](https://arxiv.org/abs/2501.12032)  
+  Yu Zhu, Wenqi Jiang, Piyumi Jasin Pathiranage, **Yongjun He**, Gustavo Alonso  
+  TRETS 2026
 * [Benchtemp: A General Benchmark for Evaluating Temporal Graph Neural Networks](https://ieeexplore.ieee.org/document/10597888)  
   Qiang Huang, Xin Wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, **Yongjun He**, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang  
   ICDE 2024
