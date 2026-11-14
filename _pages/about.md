@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in the [Systems Group](https://systems.ethz.ch/) of the Department of Computer Science at ETH Zurich, under the supervision of Prof. Dr. [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and Prof. Dr. [Ana Klimović](https://anakli.inf.ethz.ch/). Before 2024, I was supervised by Prof. [Ce Zhang](https://zhangce.github.io/) and Prof. Dr. [Theodoros Rekatsinas](https://thodrek.github.io/). My research interests are at the intersection of data management, machine learning, and systems.
+I am a final-year PhD student in the [Systems Group](https://systems.ethz.ch/) of the Department of Computer Science at ETH Zurich, under the supervision of Prof. Dr. [Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and Prof. Dr. [Ana Klimović](https://anakli.inf.ethz.ch/). Before 2024, I was supervised by Prof. [Ce Zhang](https://zhangce.github.io/) and Prof. Dr. [Theodoros Rekatsinas](https://thodrek.github.io/). My research interests are at the intersection of computer systems, machine learning, and data management.
 
 I received my M.Sc. in Computer Science from Simon Fraser University in 2021, advised by Prof. [Tianzheng Wang](https://cs.uwaterloo.ca/contacts/tianzheng-wang), Prof. [Jiannan Wang](https://dbgroup.cs.tsinghua.edu.cn/jnwang/), and Prof. [Ryan Shea](https://www.sfu.ca/fas/computing/people/faculty/in-memoriam/ryan-shea.html) (In Memoriam). I received my B.Eng in Software Engineering from Nanjing University in 2018.
 
@@ -21,10 +21,10 @@ Service
 * Program Committee, CIKM 2022, 2023
 * Student Volunteer, VLDB 2020
 
-Awards & Grants
+Awards & Honors
 ======
 * [ML and Systems Rising Stars](https://mlcommons.org/2026/05/2026-rising-stars/), MLCommons 2026
-* Student Travel Grant, ICDE 2025
+* Graduate Fellowship, Simon Fraser University 2018
 
 Talks
 ======
