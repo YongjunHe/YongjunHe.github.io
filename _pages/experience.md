@@ -8,7 +8,7 @@ author_profile: true
 Education
 ======
 * ETH Zurich
-  * Ph.D. in Computer Science, Sep 2021 - Apr 2027
+  * Ph.D. in Computer Science, Sep 2021 - May 2027
   * Advisors: Gustavo Alonso and Ana Klimović
   * Advisors (before 2024): Ce Zhang and Theodoros Rekatsinas
 
