@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-First Author Publications
+Preprints
 ======
 * [Chameleon<sup>+</sup>: A Heterogeneous and Disaggregated Accelerator System for Efficient RAG Serving](https://www.research-collection.ethz.ch/entities/publication/18202237-cd64-4f36-9008-dbf61cf0c0f7)  
   **Yongjun He\***, Wenqi Jiang\*, Marco Zeller, Roger Waleffe, Torsten Hoefler, Gustavo Alonso  
-  Submitted to The VLDB Journal
+
+(* denotes equal contribution.)
+
+First Author Publications
+======
 * [HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://www.amazon.science/publications/hetrl-efficient-reinforcement-learning-for-llms-in-heterogeneous-environments)  
   **Yongjun He\***, Shuai Zhang\*, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis  
   MLSys 2026
@@ -26,13 +30,11 @@ First Author Publications
   **Yongjun He**, Jiacheng Lu, Tianzheng Wang  
   VLDB 2021 [[code]](https://github.com/sfu-dis/corobase) [[talk at VLDB 2021]](https://www.bilibili.com/video/BV1UM4y1577P?spm_id_from=333.999.0.0)
 
-(* denotes equal contribution.)
-
 Co-Authored Publications
 ======
-* [Accelerating Recommender Model ETL with a Streaming FPGA–GPU Dataflow](https://arxiv.org/abs/2501.12032)  
+* [Accelerating Recommender Model ETL with a Streaming FPGA–GPU Dataflow](https://dl.acm.org/doi/10.1145/3871842)  
   Yu Zhu, Wenqi Jiang, Piyumi Jasin Pathiranage, **Yongjun He**, Gustavo Alonso  
-  TRETS 2026
+  ACM TRETS 2026
 * [Benchtemp: A General Benchmark for Evaluating Temporal Graph Neural Networks](https://ieeexplore.ieee.org/document/10597888)  
   Qiang Huang, Xin Wang, Susie Xi Rao, Zhichao Han, Zitao Zhang, **Yongjun He**, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang  
   ICDE 2024
